@@ -69,12 +69,12 @@ My goal is to build a strong programming foundation, improve logical thinking, a
 - [x] Module 12: Mid Term Exam
 
 ### Week 4 – Functions & Pointers
-- [ ] Module 13: Nested Loop and Pattern
-- [ ] Module 14: Function
-- [ ] Module 14.5: Practice Day 01
-- [ ] Module 15: Function with Pointer
-- [ ] Module 15.5: Practice Day 02
-- [ ] Module 16: Assignment 03
+- [x] Module 13: Nested Loop and Pattern
+- [x] Module 14: Function
+- [x] Module 14.5: Practice Day 01
+- [x] Module 15: Function with Pointer
+- [x] Module 15.5: Practice Day 02
+- [x] Module 16: Assignment 03
 
 ### Week 5 – Recursion & 2D Arrays
 - [ ] Module 17: Recursion
