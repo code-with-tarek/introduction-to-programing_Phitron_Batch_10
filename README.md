@@ -77,12 +77,12 @@ My goal is to build a strong programming foundation, improve logical thinking, a
 - [x] Module 16: Assignment 03
 
 ### Week 5 – Recursion & 2D Arrays
-- [ ] Module 17: Recursion
-- [ ] Module 18: 2D Array
-- [ ] Module 18.5: Practice Day 01
-- [ ] Module 19: 2D Array & Recursion Recap
-- [ ] Module 19.5: Practice Day 02
-- [ ] Module 20: Final Exam
+- [x] Module 17: Recursion
+- [x] Module 18: 2D Array
+- [x] Module 18.5: Practice Day 01
+- [x] Module 19: 2D Array & Recursion Recap
+- [x] Module 19.5: Practice Day 02
+- [x] Module 20: Final Exam
 
 ---
 
@@ -146,4 +146,41 @@ This repository will be updated regularly as I complete new modules, solve probl
   <b>💻 Learning • Practicing • Problem Solving • Growing 🚀</b>
   <br><br>
   ⭐ Thanks for visiting my repository!
+</p>
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=code-with-tarek&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=code-with-tarek&layout=compact&theme=tokyonight&hide_border=true" height="180" />
+</p>
+
+---
+
+## 🔥 Contribution Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=code-with-tarek&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://github.com/code-with-tarek">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://github.com/code-with-tarek?tab=repositories">
+    <img src="https://img.shields.io/badge/Repositories-1F6FEB?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  **💻 Learning • Coding • Practicing • Growing 🚀**
+</p>
+
+<p align="center">
+  ⭐ Thanks for visiting my GitHub profile!
 </p>
