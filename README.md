@@ -115,6 +115,32 @@ I believe consistency and practice are the keys to becoming a better programmer.
 This repository will be updated regularly as I complete new modules, solve problems, and learn new programming concepts.
 
 ---
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=code-with-tarek&show_icons=true&theme=tokyonight&hide_border=true" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=code-with-tarek&layout=compact&theme=tokyonight&hide_border=true" height="180" />
+</p>
+
+## 🔥 Contribution Activity
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=code-with-tarek&theme=tokyonight&hide_border=true" />
+</p>
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://github.com/code-with-tarek">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  **💻 Code • Learn • Practice • Repeat 🚀**
+</p>
 
 <p align="center">
   <b>💻 Learning • Practicing • Problem Solving • Growing 🚀</b>
