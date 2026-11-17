@@ -21,7 +21,7 @@ int main()
 {
     int n;
     int x;
-    int max= INT_MIN;
+    int max= INT_MIN;    // INT_MIN হলো C ভাষার int ডেটা টাইপের সবচেয়ে ছোট সম্ভাব্য মান (প্রায় $-2,147,483,648$)।
     scanf("%d",&n);
     for(int i=1;i<=n;i++)
     {

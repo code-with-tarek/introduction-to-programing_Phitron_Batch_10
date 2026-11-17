@@ -23,21 +23,17 @@
 // Correct
 
 
-#include<stdio.h>
-int main()
-{
-    int x;
+#include <stdio.h>
+
+int main() {
+    int x = 0; // নিরাপদ প্রাথমিক মান
     
-    while(x!=1999)
-    {
-        scanf("%d",&x);
-        if(x!=1999)
-        {
-            printf("Wrong\n");
-        }
-        else
-        {
+    while (scanf("%d", &x) != EOF) {    // EOF = End of file
+        if (x == 1999) {
             printf("Correct\n");
+            break; // সঠিক পাসওয়ার্ড পেলে সাথে সাথে লুপ থামিয়ে দেওয়া
+        } else {
+            printf("Wrong\n");
         }
     }
     

@@ -36,33 +36,72 @@
 // 15 not is prime because it is divisible by 3 ,5, so the answer is NO.
 
 
-#include<stdio.h>
-#include<math.h>
-int main()
-{
+#include <stdio.h>
+#include <math.h>
+
+int main() {
     int n;
-    int count=0;
-    scanf("%d",&n);
-    if(n<=1)
+    scanf("%d", &n);
+    
+    // ১ বা তার ছোট সংখ্যা মৌলিক হতে পারে না
+    if(n <= 1)
     {
-        printf("NO");
+        printf("NO\n");
+        return 0; // প্রোগ্রাম এখানেই শেষ হয়ে যাবে
     }
- 
-    for(int i=2;i<=sqrt(n);i++)
+    
+    int count = 0;
+    for(int i = 2; i <= sqrt(n); i++)
     {
-        if(n%i==0)
+        if(n % i == 0)
         {
-            count ++;
-            break;
+            count++;
+            break; // বিভাজ্য পেলে লুপ ভেঙে বের হয়ে যাওয়া
         }
     }
-    if(count==0)
+    
+    if(count == 0)
     {
-        printf("YES");
+        printf("YES\n");
     }    
     else
     {
-        printf("NO");
+        printf("NO\n");
     }
+    
     return 0;
 }
+
+
+
+// #include <stdio.h>
+// #include <math.h>
+
+// int main() {
+//     int n;
+//     scanf("%d", &n);
+    
+//     // ১ বা তার ছোট সংখ্যা মৌলিক হতে পারে না
+//     if (n <= 1) {
+//         printf("NO\n");
+//         return 0;
+//     }
+    
+//     int flag = 1; // ধরে নিলাম সংখ্যাটি মৌলিক (1 মানে হ্যাঁ)
+    
+//     for (int i = 2; i <= sqrt(n); i++) {
+//         if (n % i == 0) {
+//             flag = 0; // যদি ভাগ মিলে যায়, তবে এটি মৌলিক নয় (0 মানে না)
+//             break;    // লুপ ভেঙে বের হয়ে যাওয়া
+//         }
+//     }
+    
+//     // ফ্ল্যাগ চেক করে ফলাফল প্রিন্ট করা
+//     if (flag == 1) {
+//         printf("YES\n");
+//     } else {
+//         printf("NO\n");
+//     }
+    
+//     return 0;
+// }
